@@ -1,7 +1,7 @@
 {
   "name": "MindPrint #1 - Calm State",
   "description": "This NFT captures a brainwave pattern recorded during a meditative state using EEG.",
-  "image": "ipfs://bafybeih6ks6jeafy74htpwes6k5s7p7pbc6fledlrgd5opnlzfgc32valu",
+  "image": "ipfs://bafybeih6ks6jeafy74htpwes6k5s7p7pbc6fledlrgd5opnlzfgc32valu/mindprint_art.png",
   "attributes": [
     { "trait_type": "State", "value": "Calm" },
     { "trait_type": "Device", "value": "Muse 2" },
